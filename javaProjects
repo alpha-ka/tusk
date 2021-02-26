@@ -39,3 +39,6 @@ send mail while sending oof request
 Added Admin Logic and allowing to edit other employee info .
 Admin approve or reject the OOF Requests
 
+
+After employee login raise a request to get admin access
+send mail to company
